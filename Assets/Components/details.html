@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Game Details - Steam</title>
+    <link rel="icon" type="image/x-icon" href="../Images/Steam.png">
+    
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="../../styles.css">
+    
+    <!-- Component Loader -->
+    <script src="component-loader.js"></script>
+</head>
+<body>
+    <!-- Sidebar Overlay for Mobile -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <!-- Main Container: Holds sidebar and content -->
+    <div class="main-container fade-in">
+        
+        <!-- Sidebar Component Placeholder -->
+        <div id="sidebar-placeholder"></div>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            
+            <!-- Header Component Placeholder -->
+            <div id="header-placeholder"></div>
+
+            <!-- Game Details Content -->
+            <div class="content-area">
+                
+                <!-- Back Button -->
+                <div class="back-button-container">
+                    <a href="../../index.html" class="back-button">
+                        <span class="icon">←</span>
+                        <span>Back to Store</span>
+                    </a>
+                </div>
+
+                <!-- Top Section: Image + Purchase on left, Details on right -->
+                <section class="game-top-section">
+                    <div class="game-left-column">
+                        <!-- Game Hero Section -->
+                        <div class="game-hero" id="game-hero">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+
+                        <!-- Purchase Box -->
+                        <div class="purchase-box">
+                            <h3 id="game-title-sidebar"></h3>
+                            <div class="price-section">
+                                <span class="price-label">Price:</span>
+                                <span id="game-price" class="game-price"></span>
+                            </div>
+                            <button class="purchase-button" onclick="window.open('https://www.youtube.com/shorts/aftFI99m_4k', '_blank')">Add to Cart</button>
+                            <button class="wishlist-button">Add to Wishlist</button>
+                        </div>
+                    </div>
+
+                    <!-- Game Details Box (combined with About and Tags) -->
+                    <div class="details-box">
+                        <h3>Details</h3>
+                        
+                        <div class="detail-section">
+                            <h4 class="detail-section-title">About This Game</h4>
+                            <p id="game-description" class="game-description-text"></p>
+                        </div>
+
+                        <div class="detail-item">
+                            <span class="detail-label">Publisher:</span>
+                            <span id="game-publisher"></span>
+                        </div>
+                        <div class="detail-item">
+                            <span class="detail-label">Release Date:</span>
+                            <span id="game-release"></span>
+                        </div>
+                        <div class="detail-item">
+                            <span class="detail-label">Platform:</span>
+                            <div id="game-platforms" class="platform-tags"></div>
+                        </div>
+                        
+                        <div class="detail-section">
+                            <h4 class="detail-section-title">Tags</h4>
+                            <div id="game-tags" class="tags-container"></div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Media Gallery -->
+                <div class="media-gallery" id="media-gallery">
+                    <h2 class="info-title">Media</h2>
+                    <div class="media-grid" id="media-grid">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="../../details.js?v=2"></script>
+</body>
+</html>

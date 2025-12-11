@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steam</title>
+    <link rel="icon" type="image/x-icon" href="Assets/Images/Steam.png">
+    
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Component Loader -->
+    <script src="Assets/Components/component-loader.js"></script>
+</head>
+<body>
+    <!-- Login Modal -->
+    <div class="login-modal" id="login-modal">
+        <div class="login-modal-content">
+            <div class="login-header">
+                <img src="Assets/Images/Steam.png" alt="Steam Logo" class="login-logo">
+                <h1>Welcome to STEAM</h1>
+                <p>Enter your username to continue</p>
+            </div>
+            <form id="login-form" class="login-form">
+                <input 
+                    type="text" 
+                    id="username-input" 
+                    class="username-input" 
+                    placeholder="Enter your username"
+                    required
+                    maxlength="20"
+                >
+                <button type="submit" class="login-submit-btn">Continue</button>
+            </form>
+            <div class="qr-code-section">
+                <p class="qr-code-label">Scan for mobile login</p>
+                <div class="qr-flip-container" id="qr-flip-container">
+                    <div class="qr-flipper">
+                        <div class="qr-front">
+                            <img 
+                                src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
+                                alt="QR Code" 
+                                class="qr-code-image"
+                            >
+                        </div>
+                        <div class="qr-back">
+                            <img 
+                                src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/Cuxrf/SteamAssignment" 
+                                alt="QR Code" 
+                                class="qr-code-image"
+                            >
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sidebar Overlay for Mobile -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <!-- Main Container: Holds sidebar and content -->
+    <div class="main-container">
+        
+        <!-- Sidebar Component Placeholder -->
+        <div id="sidebar-placeholder"></div>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            
+            <!-- Header Component Placeholder -->
+            <div id="header-placeholder"></div>
+
+            <!-- Content Area: Featured game & game grid -->
+            <div class="content-area">
+                
+                <!-- Featured Game Section -->
+                <section class="featured-section">
+                    <h2 class="section-title">Featured and recommended</h2>
+                    <div class="featured-content">
+                        <!-- Featured game image will be loaded here by JavaScript -->
+                        <div class="featured-game" id="featured-game"></div>
+                        
+                        <!-- Game details will be loaded here by JavaScript -->
+                        <div class="game-details" id="game-details"></div>
+                    </div>
+                </section>
+
+                <!-- Games Grid Section -->
+                <section class="games-section">
+                    <div class="section-header">
+                        <h2 class="section-title">Games</h2>
+                        <a href="#" class="browse-link">Browse all</a>
+                    </div>
+                    
+                    <!-- Game cards will be loaded here by JavaScript -->
+                    <div class="game-grid" id="game-grid"></div>
+                    
+                    <!-- Pagination Controls -->
+                    <div class="pagination" id="pagination">
+                        <button class="pagination-btn" id="prev-btn">Previous</button>
+                        <div class="page-numbers" id="page-numbers"></div>
+                        <button class="pagination-btn" id="next-btn">Next</button>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="script.js?v=4"></script>
+</body>
+</html>

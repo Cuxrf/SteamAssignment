@@ -1,0 +1,72 @@
+<!-- Sidebar Component -->
+<template id="sidebar-component">
+    <aside class="sidebar">
+        <!-- Logo -->
+        <div class="logo-section">
+            <div class="logo">
+                <img src="/Assets/Images/Steam.png" alt="Steam Logo" class="logo-image">
+                <span>STEAM</span>
+            </div>
+        </div>
+        
+        <!-- Navigation Links -->
+        <nav class="sidebar-nav">
+            <a href="/index.html" class="nav-item">
+                <span class="icon">🛒</span>
+                <span>Your store</span>
+            </a>
+            <a href="/Assets/Components/details.html?id=45" class="nav-item">
+                <span class="icon">☰</span>
+                <span>Library</span>
+            </a>
+            <a href="/support.html" class="nav-item">
+                <span class="icon">✉</span>
+                <span>Support</span>
+            </a>
+            <a href="https://github.com/Cuxrf/SteamAssignment" target="_blank" class="nav-item">
+                <i class="fa-brands fa-github icon"></i>
+                <span>Github</span>
+            </a>
+        </nav>
+
+        <!-- Bottom Section: Profile & Install Button -->
+        <div class="sidebar-bottom">
+            <div class="profile-section">
+                <img src="/Assets/Images/userprofile.jpg" alt="Profile" class="profile-picture">
+                <span id="sidebar-username">@Cuxrf</span>
+            </div>
+            <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe" class="install-button">
+                <span class="icon">↓</span>
+                <span>Install Steam</span>
+            </a>
+        </div>
+    </aside>
+</template>
+
+<!-- Header Component -->
+<template id="header-component">
+    <header class="header">
+        <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle menu">
+            ☰
+        </button>
+        <nav class="header-nav">
+            <a href="/index.html" class="nav-link active">Store</a>
+            <a href="mailto:cuxrff@gmail.com" class="nav-link">Email us!</a>
+            <a href="https://steamcommunity.com/profiles/76561199036379410/" class="nav-link" target="_blank">Profile</a>
+
+        </nav>
+        
+        <!-- Header Actions: Search & Username -->
+        <div class="header-actions">
+            <div class="search-box">
+                <span class="icon">⌕</span>
+                <input type="text" id="search-input" placeholder="Search game titles...">
+            </div>
+            <div class="divider"></div>
+            <div class="header-username">
+                <img src="/Assets/Images/userprofile.jpg" alt="Profile" class="profile-picture-small">
+                <span id="header-username">Cuxrf</span>
+            </div>
+        </div>
+    </header>
+</template>

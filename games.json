@@ -1,0 +1,2816 @@
+[
+  {
+    "id": 1,
+    "name": "God Of War: Ragnar\u00f6k",
+    "price": 54.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Adventure",
+      "Action",
+      "Story-Rich",
+      "Single-player"
+    ],
+    "description": "God of War Ragnar\u00f6k continues Kratos and Atreus' journey through the Nine Realms as they confront gods, monsters, and the coming of Ragnar\u00f6k. Featuring cinematic combat, emotional storytelling, and massive realms to explore, Ragnar\u00f6k expands everything from the previous game with deeper character arcs, new weapons, and epic boss encounters.",
+    "publisher": "Sony Interactive Entertainment",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "releaseDate": "19/09/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=hfJ4Km46A-0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Counter-Strike 2",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "FPS",
+      "Competitive",
+      "Shooter",
+      "Multiplayer"
+    ],
+    "description": "Counter-Strike 2 is the latest evolution of the iconic competitive shooter, with improved graphics, physics, and matchmaking. Join teams to defuse bombs, rescue hostages, and dominate in fast-paced tactical gameplay.",
+    "publisher": "Valve",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "27/09/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dota 2",
+    "price": 0.0,
+    "image": "/Assets/Images/GamesFeatured/Dota2.png",
+    "featured": true,
+    "popular": true,
+    "tags": [
+      "MOBA",
+      "Multiplayer",
+      "Strategy",
+      "Competitive"
+    ],
+    "description": "Dota 2 is a free-to-play multiplayer online battle arena game, featuring a vast roster of heroes, strategic gameplay, and a highly competitive esports scene.",
+    "publisher": "Valve",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "09/07/2013",
+    "media": [
+      {
+        "type": "image",
+        "url": "/Assets/Images/GamesFeatured/Dota2.png"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=tmn5HXW-3Wk"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Red Dead Redemption 2",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Open-world",
+      "Western"
+    ],
+    "description": "Journey as Arthur Morgan, an outlaw of the Van der Linde gang, in a fading Wild West. Face moral dilemmas, dangerous enemies, and the unforgiving wilderness in a story of loyalty and redemption.",
+    "publisher": "Rockstar Games",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "releaseDate": "05/12/2019",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=eaW0tYpxyp0"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elden Ring",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/ss_e35b36c8f57e35887112af49131129f3776d500e.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Action",
+      "Souls-like"
+    ],
+    "description": "Elden Ring invites players into the vast Lands Between, a world of mystery, monstrous foes, and deep lore. With open-world exploration, dangerous dungeons, and brutal boss fights, every step brings new challenges and secrets.",
+    "publisher": "FromSoftware",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "25/02/2022",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=E3Huy2cdih0"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cyberpunk 2077",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/ss_f5b57ce15854f0d8db07ab0a8f14bddcb3a37667.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Sci-fi",
+      "Open-world",
+      "Action"
+    ],
+    "description": "Cyberpunk 2077 is an open-world RPG set in Night City, a neon-lit dystopia where decisions matter, body modification is the norm, and danger lurks around every corner.",
+    "publisher": "CD Projekt Red",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "10/12/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=qIcTM8WXFjk"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hogwarts Legacy",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/ss_5a08e2d6ccd23ef4741f608e9e68e62726564294.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Magic",
+      "Adventure"
+    ],
+    "description": "Explore Hogwarts and the wizarding world as your own student, learn spells, brew potions, and uncover hidden secrets in this immersive open-world fantasy.",
+    "publisher": "Warner Bros. Games",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "10/02/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=BtyBjOW8sGY"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Skyrim Special Edition",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Open-world",
+      "Adventure"
+    ],
+    "description": "Skyrim Special Edition brings the legendary open-world RPG into a modern era with remastered visuals, mod support, and all the DLC included. Explore mountains, dungeons, and hidden secrets in a world of dragons and ancient prophecy.",
+    "publisher": "Bethesda",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "releaseDate": "28/10/2016",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=lTjRZ__-278"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Baldur's Gate 3",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Story-Rich"
+    ],
+    "description": "Baldur's Gate 3 is a deep, story-driven Dungeons & Dragons RPG where your choices shape the world, relationships, and fate of the realms.",
+    "publisher": "Larian Studios",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "releaseDate": "03/08/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=OcP0WdH7rTs"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "DOOM Eternal",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Shooter",
+      "Action",
+      "Fast-paced"
+    ],
+    "description": "Tear through legions of Hell in DOOM Eternal with insane weapons, lightning-fast mobility, and raw demon-slaying power.",
+    "publisher": "id Software",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "20/03/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=qgvV4GE8vVA"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Hades II",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Roguelike",
+      "Action",
+      "Indie"
+    ],
+    "description": "Hades II builds upon the acclaimed roguelike by introducing new gods, weapons, and an even deeper narrative as you battle your way through the Underworld with style and wit.",
+    "publisher": "Supergiant Games",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "TBA",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=vFMUuUGLqiI"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Star Wars Battlefront II (Classic)",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/6060/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Sci-fi",
+      "Shooter"
+    ],
+    "description": "Experience large-scale Star Wars battles across iconic planets in this classic shooter. Engage in ground battles, space combat, and objective-based missions.",
+    "publisher": "LucasArts",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "01/11/2005",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/6060/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=2WeX41WfOsY"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Lies of P",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Souls-like",
+      "Dark",
+      "Action"
+    ],
+    "description": "Lies of P is a gothic reimagining of Pinocchio, combining haunting storytelling with punishing combat and a dark, twisted world to explore.",
+    "publisher": "NEOWIZ",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "19/09/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kXZoKdr-xeo"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "FIFA 23",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Sports",
+      "Multiplayer",
+      "Football"
+    ],
+    "description": "FIFA 23 delivers the most authentic football experience with HyperMotion2 technology, women's club teams, World Cup modes, and advanced gameplay physics.",
+    "publisher": "EA Sports",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "30/09/2022",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=o3V-GvvzjE4"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Project Zomboid",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Survival",
+      "Zombie",
+      "Open-world",
+      "Multiplayer"
+    ],
+    "description": "Survive the zombie apocalypse in a top-down open world. Manage hunger, health, and morale while scavenging and building to stay alive.",
+    "publisher": "The Indie Stone",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "08/11/2013",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=nPbsDmzZ3Oc"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Phasmophobia",
+    "price": 13.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Horror",
+      "Co-op",
+      "Multiplayer",
+      "Investigation"
+    ],
+    "description": "Work as a paranormal investigator to identify ghosts in haunted locations. Cooperate with friends, gather evidence, and survive encounters with the supernatural.",
+    "publisher": "Kinetic Games",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "18/09/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=_tTVTzsd0uM"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Left 4 Dead",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/500/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Zombie",
+      "Co-op",
+      "Shooter"
+    ],
+    "description": "Fight for survival in a zombie-infested world with your friends. Team up to overcome hordes of the undead in this classic co-op shooter.",
+    "publisher": "Valve",
+    "platform": [
+      "PC",
+      "Xbox"
+    ],
+    "releaseDate": "17/11/2008",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/500/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=TB-8X3WFoYg"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Left 4 Dead 2",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Zombie",
+      "Co-op",
+      "Shooter"
+    ],
+    "description": "The sequel to Left 4 Dead, featuring new campaigns, weapons, and more terrifying infected. Survive the apocalypse with friends in this co-op classic.",
+    "publisher": "Valve",
+    "platform": [
+      "PC",
+      "Xbox"
+    ],
+    "releaseDate": "17/11/2009",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=EjTUXZaqqCc"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Forest",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Survival",
+      "Horror",
+      "Open-world"
+    ],
+    "description": "Survive a plane crash in a mysterious forest inhabited by cannibals. Build shelters, craft weapons, and uncover the dark secrets of the forest.",
+    "publisher": "Endnight Games",
+    "platform": [
+      "PC",
+      "PS4"
+    ],
+    "releaseDate": "30/04/2018",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=J_NkP9GZE30"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Starfield",
+    "price": 69.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Space",
+      "Open-world",
+      "Sci-fi"
+    ],
+    "description": "Explore the cosmos in Bethesda's epic space RPG. Customize your ship, form alliances, and journey through a vast galaxy full of mysteries.",
+    "publisher": "Bethesda",
+    "platform": [
+      "PC",
+      "Xbox"
+    ],
+    "releaseDate": "06/09/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kfYEiTdsyas"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Helldivers 2",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Shooter",
+      "Co-op",
+      "Sci-fi",
+      "Action"
+    ],
+    "description": "Dive into intense cooperative shooting missions across hostile alien worlds. Strategize, fight, and survive in this sequel to the top-down shooter Helldivers.",
+    "publisher": "Arrowhead Game Studios",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "releaseDate": "08/02/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Ahx35iVJn10"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Black Myth: Wukong",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "RPG",
+      "Fantasy"
+    ],
+    "description": "An action RPG based on the classic Journey to the West myth, with stunning visuals, deep combat, and a mythological story.",
+    "publisher": "Game Science",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "releaseDate": "20/08/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=O2nNljv0MOw"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Palworld",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/ss_0f1571fbf6ce3cc6128740848ae034d9f3814e24.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Survival",
+      "Open-world",
+      "Crafting",
+      "Multiplayer"
+    ],
+    "description": "Fight, farm, build, and work alongside mysterious creatures called \u201cPals\u201d in this multiplayer survival crafting game. Capture, use, or trade Pals, build factories, and survive in a harsh world. :contentReference[oaicite:0]{index=0}",
+    "publisher": "Pocketpair",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "19/01/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/ss_0f1571fbf6ce3cc6128740848ae034d9f3814e24.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=UwOBM4o2S-w"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Rust",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_8e24ac8b8f962b3d7e81aa6f1e8e369320a04d34.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Survival",
+      "Multiplayer",
+      "Open-world",
+      "Crafting"
+    ],
+    "description": "Survive in a brutal, open-world island where wildlife, weather, and other players are all threats. Build bases, raid others, hunt, and struggle to stay alive. :contentReference[oaicite:1]{index=1}",
+    "publisher": "Facepunch Studios",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "08/02/2018",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/ss_8e24ac8b8f962b3d7e81aa6f1e8e369320a04d34.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Ki4haFrqzKC"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Apex Legends",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/ss_f5b4845f21e5ba3a6c7170a9432d92f27304e547.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Battle Royale",
+      "Shooter",
+      "Multiplayer"
+    ],
+    "description": "A fast\u2011paced free-to-play battle royale where squads of three compete to be the last team standing. Use unique legend abilities to gain the upper hand.",
+    "publisher": "Electronic Arts",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "04/02/2019",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/ss_f5b4845f21e5ba3a6c7170a9432d92f27304e547.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=2Vc3-KSWsHU"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Grand Theft Auto V",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/ss_d6da9b0790a92da859db44a8f792f74bc34b3a51.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Open-world",
+      "Action",
+      "Multiplayer",
+      "Crime"
+    ],
+    "description": "Experience the open-world chaos of Los Santos. Play through the epic story or join GTA Online for heists, races, and more with friends.",
+    "publisher": "Rockstar Games",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "14/04/2015",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/ss_d6da9b0790a92da859db44a8f792f74bc34b3a51.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Schedule\u202f1",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/ss_0e514650312c0e44bd61ec17df88b35f854b0448.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Simulation",
+      "Crime",
+      "Open-world"
+    ],
+    "description": "Run your own drug empire in this open\u2011world crime simulator. Manufacture, deal, evade law enforcement\u2014and grow your operation at your own risk.",
+    "publisher": "TVGS",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "24/03/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/ss_0e514650312c0e44bd61ec17df88b35f854b0448.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=VzpW8ABgEwE"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Call of Duty: Black Ops\u202f6",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/ss_0.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Shooter",
+      "Multiplayer",
+      "FPS"
+    ],
+    "description": "The next instalment in the Black Ops series, with high\u2011intensity multiplayer, classic CoD modes, and modern tactical action.",
+    "publisher": "Activision",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "25/10/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/ss_0.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Vt3QdQ8tNFA"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Team Fortress 2",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/ss_4c687e7a422a41ad861b7a9dbe5e310478220040.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Shooter",
+      "Multiplayer",
+      "Team-based",
+      "Cartoony"
+    ],
+    "description": "Classic team-based shooter from Valve. Choose from 9 distinct classes and battle in a variety of objective-based game modes.",
+    "publisher": "Valve",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "10/10/2007",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/ss_4c687e7a422a41ad861b7a9dbe5e310478220040.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=EnDXh-6Jnet"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Hollow Knight: Silksong",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/ss_7983574d464e6559ac7e24275727f73a8bcca1f3.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Metroidvania",
+      "Platformer",
+      "Adventure"
+    ],
+    "description": "Play as Hornet in this sequel to Hollow Knight. Explore a new kingdom, battle new foes, and uncover secrets in a gorgeous hand\u2011drawn world.",
+    "publisher": "Team Cherry",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "04/09/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/ss_7983574d464e6559ac7e24275727f73a8bcca1f3.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=bhhJzc3qNGc"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Warframe",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/ss_0a4f6d66c7a2fd299a3f117d12ed50736c5b0d6a.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Free-to-play",
+      "Co-op",
+      "Sci-fi",
+      "Action"
+    ],
+    "description": "Fast-paced online action game where you control powerful warriors called Warframes. Explore, fight, and master powerful abilities across the solar system.",
+    "publisher": "Digital Extremes",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "25/03/2013",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/ss_0a4f6d66c7a2fd299a3f117d12ed50736c5b0d6a.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Qm_GsHpxuRo"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Assassin\u2019s Creed Mirage",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3035570/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3035570/ss_0.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Stealth",
+      "Historical"
+    ],
+    "description": "Return to the roots of the Assassin\u2019s Creed series in this stealth\u2011focused, story\u2011driven adventure set in Baghdad\u2019s Golden Age.",
+    "publisher": "Ubisoft",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "17/10/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3035570/ss_0.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=10CM3pbm_qs"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Stardew Valley",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/ss_1a0cea04c18df1fec2a188668be2cb219fa48a4b.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Farming",
+      "Simulation",
+      "RPG",
+      "Indie"
+    ],
+    "description": "A relaxing farming simulator where you grow crops, raise animals, go mining, befriend villagers, and build your dream farm.",
+    "publisher": "ConcernedApe",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "26/02/2016",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/ss_1a0cea04c18df1fec2a188668be2cb219fa48a4b.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ot7uXNQskhs"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Fallout 4",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/ss_8dc79397f2f33db7db07d6f8e3bf7673e2dfe9bf.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Open-world",
+      "Post-apocalypse"
+    ],
+    "description": "Explore the wasteland of post\u2011nuclear Boston. Complete quests, build settlements, and shape the future in a world full of choice and danger.",
+    "publisher": "Bethesda",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "10/11/2015",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/ss_8dc79397f2f33db7db07d6f8e3bf7673e2dfe9bf.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=GeDM7b6mgZc"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Diablo IV",
+    "price": 69.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/ss_1b83233f2beb7903faa15f6aee7aab1f63b4d7d4.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action RPG",
+      "Multiplayer",
+      "Fantasy"
+    ],
+    "description": "Return to Sanctuary in this dark, action\u2011RPG. Battle hordes of demons, build your character, and explore a vast, haunted world.",
+    "publisher": "Blizzard Entertainment",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "06/06/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/ss_1b83233f2beb7903faa15f6aee7aab1f63b4d7d4.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=VxmYkz3cD5k"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Lethal Company",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/ss_0.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Co-op",
+      "Indie",
+      "Horror",
+      "Survival"
+    ],
+    "description": "You\u2019re a contracted worker for the Company. Collect scrap from abandoned moons, face dangerous anomalies, and try not to miss the profit quota.",
+    "publisher": "Zeekerss",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "23/10/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/ss_0.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=QY2bOosRwKw"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Resident Evil 4 Remake",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/ss_20358a7f1a52ddaae30df03552e8aefb59a68039.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Horror",
+      "Action",
+      "Single-player"
+    ],
+    "description": "A modern reimagining of the survival-horror classic. Explore a creepy village, solve puzzles, and face terrifying enemies in this atmospheric remake.",
+    "publisher": "Capcom",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "24/03/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/ss_20358a7f1a52ddaae30df03552e8aefb59a68039.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=IkgPDcM3Z64"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Among Us",
+    "price": 4.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/ss_2b8cd1ede266ef636eb1d83165c4ed475e1bcc3f.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Multiplayer",
+      "Social Deduction",
+      "Party"
+    ],
+    "description": "Work together (or deceive) in this multiplayer game of cooperation and betrayal. Complete tasks, find impostors, or sabotage everyone else.",
+    "publisher": "Innersloth",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "15/12/2021",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/ss_2b8cd1ede266ef636eb1d83165c4ed475e1bcc3f.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=NSJ4xjUxpS4"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "ARC Raiders",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1808500/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1808500/ss_9f26ac1d3c5b4eba6c26e06b15ccb045df30adc1.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "PvPvE",
+      "Shooter",
+      "Co-op",
+      "Extraction"
+    ],
+    "description": "Enter a futuristic world of scavenging, combat, and survival. Craft gear, explore dynamic maps, and fight machines and other raiders in this extraction shooter. :contentReference[oaicite:2]{index=2}",
+    "publisher": "Embark Studios",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "30/10/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1808500/ss_9f26ac1d3c5b4eba6c26e06b15ccb045df30adc1.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=cJvP6fdyjI4"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Marvel Rivals",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/ss_1.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "Action",
+      "Multiplayer",
+      "Superhero"
+    ],
+    "description": "Battle with your favorite Marvel heroes and villains in fast-paced, arena-style combat. Team up with friends or compete against others in epic superhero showdowns.",
+    "publisher": "Marvel Games",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "05/06/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/ss_1.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=eHLWu1qdTpM"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "R.E.P.O.",
+    "price": 16.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/ss_0e514650312c0e44bd61ec17df88b35f854b0448.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Indie",
+      "Action",
+      "Horror",
+      "Co\u2011op"
+    ],
+    "description": "An online co\u2011op horror game where up to 6 players locate and extract valuable objects under dangerous conditions. Developed and published by Semiwork. :contentReference[oaicite:2]{index=2}",
+    "publisher": "Semiwork",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "26/02/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/ss_0e514650312c0e44bd61ec17df88b35f854b0448.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=8xAZTFsxKq4"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Hollow Knight",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/ss_2ceb3e95da737e28306e3e8e88725e77d9e5aefb.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Metroidvania",
+      "Platformer",
+      "Adventure"
+    ],
+    "description": "Delve deep into the ruined kingdom of Hallownest in this hand-drawn, challenging Metroidvania full of secrets, powerful bosses, and tight platforming.",
+    "publisher": "Team Cherry",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "24/02/2017",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/ss_2ceb3e95da737e28306e3e8e88725e77d9e5aefb.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=UAO2urG23S4"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "No Man's Sky",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg",
+    "featuredImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_648da820117d4af2ebed7e19a594f1927de49994.1920x1080.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Exploration",
+      "Sci-fi",
+      "Open-world"
+    ],
+    "description": "Explore an infinite universe with procedurally generated planets, build bases, meet other players, and discover alien life in this epic space adventure.",
+    "publisher": "Hello Games",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "24/08/2016",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_648da820117d4af2ebed7e19a594f1927de49994.1920x1080.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ZrSf_y3bMts"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bully",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/12200/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open-world"
+    ],
+    "description": "Bully: Scholarship Edition tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence at Bullworth Academy. Beat the jocks at dodge ball, play pranks on the preppies, save the nerds, kiss the girl and navigate the social hierarchy in an open-world boarding school.",
+    "publisher": "Rockstar Games",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "21/10/2008",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/12200/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=7jJo3GQ0XDI"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Ghost of Tsushima",
+    "price": 59.99,
+    "image": "/Assets/Images/GamesFeatured/GOT.avif",
+    "featured": true,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open-world",
+      "Story-Rich"
+    ],
+    "description": "Ghost of Tsushima Director's Cut is an action-adventure set in feudal Japan. Play as Jin Sakai, a samurai warrior who must embrace unconventional tactics to liberate Tsushima Island from Mongol invaders. Master sword combat, stealth, and exploration in stunning landscapes with the complete edition including Iki Island expansion.",
+    "publisher": "Sony Interactive Entertainment",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "releaseDate": "16/05/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Zbq7BnsQhrw"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Horizon Zero Dawn",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "RPG",
+      "Adventure",
+      "Open-world"
+    ],
+    "description": "Horizon Zero Dawn is an action RPG set in a lush post-apocalyptic world where nature has reclaimed the ruins of a forgotten civilization. Play as Aloy, a skilled hunter on a quest to discover her destiny among deadly machines. Master weapons and traps to hunt mechanized creatures, explore vast landscapes, and uncover ancient mysteries.",
+    "publisher": "Guerrilla Games",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "releaseDate": "07/08/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=wzx96gYeVQE"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Deep Rock Galactic",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Co-op",
+      "FPS",
+      "Shooter",
+      "Mining"
+    ],
+    "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space dwarves, procedurally-generated caves, and endless hordes of alien monsters. Work together to dig, explore, and fight your way through dangerous cave systems. Choose from four unique classes, mine resources, and complete missions in this fun and challenging underground adventure.",
+    "publisher": "Ghost Ship Games",
+    "platform": [
+      "PC",
+      "Xbox"
+    ],
+    "releaseDate": "13/05/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ETHrClL7cqM"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Outlast",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/238320/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Horror",
+      "Survival",
+      "First-Person"
+    ],
+    "description": "Outlast is a first-person survival horror game set in the remote mountains of Colorado. As investigative journalist Miles Upshur, you'll explore the abandoned Mount Massive Asylum armed only with a camcorder with night vision. With no way to fight back, you must run, hide, and survive encounters with terrifying inmates.",
+    "publisher": "Red Barrels",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "04/09/2013",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/238320/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Z00c1JlFmAw"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Devil May Cry 5",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Hack and Slash",
+      "Combat"
+    ],
+    "description": "Devil May Cry 5 is the return of legendary demon hunter Dante alongside the mysterious V and Nero, who's out to settle the score with his demonic arm. Experience insanely stylish action with three playable characters, each with unique combat styles, devastating combos, and an arsenal of powerful weapons.",
+    "publisher": "Capcom",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "08/03/2019",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=VmzMfKmdbXg"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Death Stranding",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open-world",
+      "Story-Rich"
+    ],
+    "description": "Death Stranding Director's Cut is Hideo Kojima's genre-defying experience. Reconnect a fractured future carrying precious cargo across a ravaged landscape, facing otherworldly threats and treacherous terrain. Forge connections with other players in an unforgettable journey to rebuild what was lost.",
+    "publisher": "Kojima Productions",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "releaseDate": "30/03/2022",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=rP3UngLFou4"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Sleeping Dogs",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/307690/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open-world"
+    ],
+    "description": "Sleeping Dogs: Definitive Edition is an open-world action-adventure set in Hong Kong. Play as undercover cop Wei Shen as you infiltrate the Triads, navigate loyalty and betrayal, and master intense martial arts combat. Experience a gripping crime drama with fast-paced action and a vibrant neon-lit city.",
+    "publisher": "Square Enix",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "14/10/2014",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/307690/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ECPNMJnJGP4"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Marvel's Spider-Man",
+    "price": 59.99,
+    "image": "/Assets/Images/GamesFeatured/Spiderman.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open-world",
+      "Story-Rich"
+    ],
+    "description": "Marvel's Spider-Man Remastered brings the acclaimed superhero adventure to PC. Swing through New York City, fight iconic villains, and experience Peter Parker's journey to master his powers while juggling his personal life. Features enhanced visuals, ray tracing, and all original DLC content.",
+    "publisher": "Insomniac Games",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "releaseDate": "12/08/2022",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=q4GdJVvdxss"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Forza Horizon 5",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Racing",
+      "Open-world",
+      "Driving",
+      "Simulation"
+    ],
+    "description": "Forza Horizon 5 takes you to the vibrant and ever-evolving open world landscapes of Mexico. Explore diverse biomes, from lush jungles to ancient temples, while racing hundreds of the world's greatest cars. Create custom routes, join online adventures, and experience dynamic weather and seasons.",
+    "publisher": "Xbox Game Studios",
+    "platform": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "releaseDate": "08/11/2021",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=FYH9n37B7Yw"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Prey",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/480490/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Sci-fi",
+      "First-Person",
+      "Immersive Sim"
+    ],
+    "description": "Prey is a first-person sci-fi action game from Arkane Studios. Aboard Talos I, a space station orbiting the moon in 2032, you are the key subject of an experiment meant to alter humanity forever. Fight the alien Typhon threat using weapons, unique abilities, and improvisation while uncovering the dark secrets of the station.",
+    "publisher": "Bethesda Softworks",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "05/05/2017",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/480490/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=9BXTHdZPlYo"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Clair Obscur: Expedition 33",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "Adventure"
+    ],
+    "description": "Clair Obscur: Expedition 33 is a ground-breaking turn-based RPG set in a fantasy world inspired by Belle Époque France. Experience reactive, real-time combat blended with strategic planning. Every year, the Paintress awakens and paints a number on her monolith, condemning everyone of that age to death. It's 33 this year.",
+    "publisher": "Sandfall Interactive",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "releaseDate": "24/04/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=zsMH12PdTHs"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Hearts of Iron IV",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Strategy",
+      "World War II",
+      "Grand Strategy"
+    ],
+    "description": "Hearts of Iron IV is a grand strategy wargame set during World War II. Command any nation through the war, researching technologies, managing resources, and leading massive military campaigns. Make crucial political and diplomatic decisions that will shape the course of history in the most detailed WWII strategy game ever made.",
+    "publisher": "Paradox Interactive",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "06/06/2016",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/394360/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Ndlkiv0aZoM"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Little Nightmares III",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1392860/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Horror",
+      "Adventure",
+      "Puzzle",
+      "Co-op"
+    ],
+    "description": "Little Nightmares III is a suspense-adventure game where you play as Low and Alone, trapped in the Spiral, a cluster of disturbing places. Navigate terrifying environments together, solve puzzles cooperatively, and escape the nightmarish creatures that lurk in this dark fairy tale world. Play solo with an AI companion or online co-op with a friend.",
+    "publisher": "Bandai Namco Entertainment",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releaseDate": "10/10/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1392860/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=rWHY56eR3DE"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Dying Light",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/239140/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Zombies",
+      "Parkour",
+      "Open-world",
+      "Co-op"
+    ],
+    "description": "Dying Light is a first-person action-survival game set in a vast open world infested with zombies. Roam a city devastated by a mysterious virus, scavenge for supplies, craft weapons, and use parkour to navigate the urban environment. When night falls, the infected become deadly predators, and you become the hunted.",
+    "publisher": "Techland",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "27/01/2015",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239140/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=9IM3YE0BZuo"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Ready Or Not",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Tactical",
+      "FPS",
+      "Shooter",
+      "Realistic"
+    ],
+    "description": "Ready Or Not is an intense tactical FPS that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations. Command an elite SWAT team using authentic tactics and procedures. Engage in a variety of scenarios from active shooters to hostage situations in this realistic tactical shooter.",
+    "publisher": "VOID Interactive",
+    "platform": [
+      "PC",
+      "Xbox Series X/S"
+    ],
+    "releaseDate": "13/12/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Gd139Dxi64I"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "A Way Out",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222700/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Co-op",
+      "Adventure",
+      "Story-Rich",
+      "Split-Screen"
+    ],
+    "description": "A Way Out is a two-player co-op only game that tells the story of two prisoners, Leo and Vincent, breaking out of prison and staying on the run. Play the entire experience with a friend through split-screen couch or online co-op. Each character has unique gameplay sequences and the story unfolds from both perspectives.",
+    "publisher": "Electronic Arts",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "18/06/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222700/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=yGZGSdgJVPM"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Star Wars Jedi: Fallen Order",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Star Wars",
+      "Souls-like"
+    ],
+    "description": "Star Wars Jedi: Fallen Order is a third-person action-adventure game set after the events of Episode III. Play as Cal Kestis, a young Jedi Padawan who survived Order 66. Master lightsaber combat, Force powers, and exploration as you uncover the mysteries of a long-extinct civilization while staying one step ahead of the Empire.",
+    "publisher": "Electronic Arts",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "15/11/2019",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=0GLbwkfhYZk"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Pico Park",
+    "price": 4.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1509960/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Puzzle",
+      "Co-op",
+      "Multiplayer",
+      "Cute"
+    ],
+    "description": "Pico Park is a cooperative local/online multiplayer action puzzle game for 2-8 players. Work together with friends to get the key and reach the goal in 48 levels designed for multiplayer cooperation. Each level features special gimmicks that require teamwork and coordination to overcome.",
+    "publisher": "TECOPARK",
+    "platform": [
+      "PC",
+      "Switch"
+    ],
+    "releaseDate": "07/05/2021",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1509960/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=vnQTJxmw9LI"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Terraria",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Sandbox",
+      "Adventure",
+      "Crafting",
+      "2D"
+    ],
+    "description": "Terraria is a 2D sandbox adventure where you dig, fight, explore, and build. Discover vast caverns, battle unique enemies, collect loot, and craft hundreds of items. From simple tools to complex machinery, prepare for epic boss fights in this pixel-perfect world with infinite possibilities.",
+    "publisher": "Re-Logic",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "16/05/2011",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=w7uOhFTrrq0"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Minecraft Dungeons",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Dungeon Crawler",
+      "Co-op"
+    ],
+    "description": "Minecraft Dungeons is an action-adventure game set in the Minecraft universe. Battle through procedurally generated dungeons filled with mobs, discover unique artifacts and enchantments, and defeat the Arch-Illager. Play solo or team up with friends in this blocky dungeon-crawling adventure.",
+    "publisher": "Xbox Game Studios",
+    "platform": [
+      "PC",
+      "Xbox",
+      "PlayStation",
+      "Switch"
+    ],
+    "releaseDate": "22/09/2021",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Xv5s5I3Dnhk"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "MultiVersus",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1818750/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "Multiplayer",
+      "Free-to-play"
+    ],
+    "description": "MultiVersus is a free-to-play platform fighter that brings together iconic characters from Warner Bros. universes. Battle as Batman, Shaggy, Superman, Bugs Bunny, and many more in 1v1 or 2v2 matches with unique movesets and team-based gameplay. Note: Online play ended May 30, 2025.",
+    "publisher": "Warner Bros. Games",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "28/05/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1818750/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=aBu1f0gvQX4"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "It Takes Two",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Co-op",
+      "Adventure",
+      "Platformer",
+      "Story-Rich"
+    ],
+    "description": "It Takes Two is a co-op only game from Hazelight Studios, winner of Game of the Year 2021. Embark on a heartfelt journey as Cody and May, a couple turned into dolls by a magic spell. Master unique character abilities, work together through creative challenges, and mend their fractured relationship. Friend's Pass included.",
+    "publisher": "Electronic Arts",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "26/03/2021",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=GAJQRQUy6zg"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "NBA 2K25",
+    "price": 69.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2878980/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Sports",
+      "Basketball",
+      "Simulation"
+    ],
+    "description": "NBA 2K25 delivers the ultimate basketball experience with ProPLAY technology bringing authentic NBA gameplay to life. Build your MyPLAYER, compete in MyCAREER, dominate in MyTEAM, or manage a franchise in MyNBA. Features improved gameplay mechanics, enhanced graphics, and new-gen features on PC for the first time.",
+    "publisher": "2K",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releaseDate": "06/09/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2878980/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=TfGEiN3Nmr0"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Mortal Kombat 11",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "Gore",
+      "Action"
+    ],
+    "description": "Mortal Kombat 11 is the latest installment in the legendary fighting game franchise. Experience cinematic story mode, brutal fatalities, and competitive gameplay. Master new and classic characters with unique abilities and custom variations. The Kombat Pack includes additional fighters and content.",
+    "publisher": "Warner Bros. Games",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "releaseDate": "23/04/2019",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=UPOaKx3xDkw"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Mortal Kombat 1",
+    "price": 69.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1971870/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "Action",
+      "Gore"
+    ],
+    "description": "Mortal Kombat 1 ushers in a new era of the iconic franchise with a reborn Mortal Kombat Universe created by Fire God Liu Kang. Discover a reborn Mortal Kombat Universe featuring reimagined fighters with interwoven relationships. Experience brutal Fatalities, new Kameo Fighters system, and an epic story campaign.",
+    "publisher": "Warner Bros. Games",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "releaseDate": "19/09/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1971870/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=_4KGq8MLYFI"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Street Fighter 6",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "Competitive",
+      "Action"
+    ],
+    "description": "Street Fighter 6 represents the evolution of the fighting game genre with the new Real Time Commentary feature, three control types, and the innovative Drive System. Explore World Tour mode with your own avatar, compete in Battle Hub, or master Fighting Ground. Features 18 diverse fighters at launch with more to come.",
+    "publisher": "Capcom",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "releaseDate": "02/06/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kWRykz63xg4"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Payday 2",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Co-op",
+      "FPS",
+      "Heist",
+      "Crime"
+    ],
+    "description": "Payday 2 is an action-packed co-op FPS where you and your crew pull off daring heists. Rob banks, steal art, and break into high-security facilities in this 4-player cooperative shooter. Customize your character with masks, weapons, and skills across hundreds of missions and challenges.",
+    "publisher": "Starbreeze Studios",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "13/08/2013",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=BiU7aGZ-o68"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Split Fiction",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Co-op",
+      "Adventure",
+      "Platformer",
+      "Story-Rich"
+    ],
+    "description": "Split Fiction is the latest co-op adventure from Hazelight Studios. Two aspiring writers, Mio and Zoe, are trapped in a living storybook world of their own creation. Work together using unique abilities to navigate through sci-fi and fantasy realms, solving puzzles and battling enemies. Experience crossplay co-op with the Friend's Pass included.",
+    "publisher": "Electronic Arts",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "releaseDate": "06/03/2025",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=qDj81-AZ_Lo"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Overwatch 2",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Hero Shooter",
+      "FPS",
+      "Competitive",
+      "Free-to-play"
+    ],
+    "description": "Overwatch 2 is a free-to-play team-based action game set in an optimistic future. Choose from over 30 unique heroes with different abilities and playstyles. Battle in 5v5 matches across diverse maps and game modes. Seasonal content brings new heroes, maps, and cosmetics. Requires Battle.net account.",
+    "publisher": "Blizzard Entertainment",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "releaseDate": "10/08/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=GKXS_YA9s7E"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Quake",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2310/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "FPS",
+      "Classic",
+      "Shooter"
+    ],
+    "description": "Quake Enhanced is the definitive version of the legendary first-person shooter. Experience the dark fantasy shooter that revolutionized gaming with enhanced visuals, 4K support, and improved models. Includes the original game, mission packs, and new content. Features cross-platform multiplayer and split-screen co-op.",
+    "publisher": "id Software",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "19/08/2021",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2310/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=JuKX7MvQYZk"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Batman: Arkham Origins",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/209000/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Batman",
+      "Superhero"
+    ],
+    "description": "Batman: Arkham Origins is a prequel to the Arkham series set on Christmas Eve. As a young Batman, face deadly assassins hired by Black Mask to kill you. Master the combat system, detective skills, and gadgets while exploring a snow-covered Gotham City. Features an expanded crime scene investigation system and intense boss battles.",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "platform": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "releaseDate": "25/10/2013",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/209000/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=lFCJ2GbKSiI"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Insurgency: Sandstorm",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/581320/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Tactical",
+      "FPS",
+      "Realistic",
+      "Multiplayer"
+    ],
+    "description": "Insurgency: Sandstorm is a team-based tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience authentic combat with minimal HUD, realistic ballistics, and strategic depth. Fight in large-scale 16v16 battles or intense close-quarters firefights across detailed environments.",
+    "publisher": "New World Interactive",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "12/12/2018",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/581320/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=4KTh4vVXLJc"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "THE FINALS",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "FPS",
+      "Free-to-play",
+      "Destruction",
+      "Competitive"
+    ],
+    "description": "THE FINALS is a free-to-play first-person shooter featuring fully destructible arenas where everything can be torn down, blown up, or used as a weapon. Compete in fast-paced 3v3v3v3 matches where contestants battle for fame and fortune in a virtual combat game show. Master unique loadouts and abilities in dynamic environments.",
+    "publisher": "Embark Studios",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "releaseDate": "07/12/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073850/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=uDHTehe3bgo"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Sackboy: A Big Adventure",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1599660/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Platformer",
+      "Co-op",
+      "Adventure",
+      "Family-Friendly"
+    ],
+    "description": "Sackboy: A Big Adventure is a 3D platformer featuring PlayStation's iconic hero. Embark on an epic adventure solo or with up to 3 friends in local or online co-op. Explore imaginative worlds, overcome creative challenges, and customize your Sackboy. PC version includes 4K support, 120fps, and DualSense controller features.",
+    "publisher": "Sony Interactive Entertainment",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "releaseDate": "27/10/2022",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1599660/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=JNbWYvTxfWE"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "PUBG: BATTLEGROUNDS",
+    "price": 0.0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Battle Royale",
+      "Shooter",
+      "Survival",
+      "Multiplayer"
+    ],
+    "description": "PUBG: BATTLEGROUNDS is the original battle royale that started it all. Drop onto massive maps, scavenge for weapons and gear, and be the last one standing in 100-player matches. Experience tactical gameplay with realistic gunplay and vehicle combat. Now free-to-play with regular content updates and new maps.",
+    "publisher": "Krafton",
+    "platform": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "releaseDate": "21/12/2017",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ODWCbu_cuqk"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Detroit: Become Human",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Story-Rich",
+      "Choices Matter",
+      "Adventure",
+      "Narrative"
+    ],
+    "description": "Detroit: Become Human is a neo-noir thriller where your choices shape an intricate branching narrative. Play as three androids and decide their fate in a near-future Detroit. Navigate moral dilemmas with thousands of choices and dozens of endings. Experience cinematic storytelling where every decision matters.",
+    "publisher": "Quantic Dream",
+    "platform": [
+      "PC",
+      "PS4"
+    ],
+    "releaseDate": "18/06/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=8a-EObAhYrg"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "The Last of Us Part I",
+    "price": 59.99,
+    "image": "/Assets/Images/GamesFeatured/TLOU1.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Story-Rich",
+      "Survival"
+    ],
+    "description": "The Last of Us Part I is a remake of the genre-defining action-adventure. Experience Joel and Ellie's harrowing journey through a pandemic-ravaged America with rebuilt visuals, enhanced gameplay, and improved accessibility. Features the complete story including the Left Behind chapter. Rebuilt from the ground up for PC with unlocked framerate and ultrawide support.",
+    "publisher": "Sony Interactive Entertainment",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "releaseDate": "28/03/2023",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=uRKIWQUucj0"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Injustice 2",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/627270/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "Superhero",
+      "DC Comics",
+      "Competitive"
+    ],
+    "description": "Injustice 2 is the super-powered sequel to the hit fighting game. Build and power up the ultimate roster of DC legends with custom character variations. Battle across iconic locations with cinematic super moves, interactive environments, and deep combat mechanics. Features story mode continuation and extensive customization options.",
+    "publisher": "Warner Bros. Games",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "14/11/2017",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/627270/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=t57qg07wh9E"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Watch Dogs 2",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/447040/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Open-world",
+      "Hacking",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Watch Dogs 2 takes you to the birthplace of the tech revolution, San Francisco. Play as Marcus Holloway, a brilliant hacker working with DedSec to take down the city's invasive surveillance system. Hack everything, from traffic lights to personal devices, explore a massive open world, and use creative approaches to complete missions.",
+    "publisher": "Ubisoft",
+    "platform": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "releaseDate": "29/11/2016",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/447040/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=2Gwiarka9HU"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "UNCHARTED: Legacy of Thieves Collection",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Third-Person",
+      "Story-Rich"
+    ],
+    "description": "UNCHARTED: Legacy of Thieves Collection includes the two critically acclaimed single-player adventures from UNCHARTED 4: A Thief's End and UNCHARTED: The Lost Legacy. Experience Nathan Drake's final chapter and Chloe Frazer's standalone adventure with enhanced graphics, improved frame rates, and PC-exclusive features including ultrawide support and NVIDIA DLSS.",
+    "publisher": "Sony Interactive Entertainment",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "releaseDate": "19/10/2022",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=8cKmW0Ojuz0"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Sea of Thieves",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Multiplayer",
+      "Pirates"
+    ],
+    "description": "Sea of Thieves offers a pirate adventure of sailing, looting, and exploring in a shared open world. Fight other crews, hunt for treasure, and face mythical sea monsters.",
+    "publisher": "Xbox Game Studios",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "03/06/2020",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=qF93H3UiFYY"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Subnautica",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Adventure",
+      "Survival",
+      "Exploration",
+      "Underwater"
+    ],
+    "description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines, out-smart wildlife and survive in lush reefs, caves, and more.",
+    "publisher": "Unknown Worlds Entertainment",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "23/01/2018",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=gz8H9VDzeqo"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Portal 2",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Puzzle",
+      "First-Person",
+      "Co-op",
+      "Sci-Fi"
+    ],
+    "description": "Portal 2 features innovative puzzle-platform gameplay, combining single-player story and two-player co-op. Use the portal gun to navigate test chambers designed by Aperture Science.",
+    "publisher": "Valve",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "19/04/2011",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=tax4e4hBBZc"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Garry's Mod",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/4000/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Sandbox",
+      "Physics",
+      "Multiplayer",
+      "Open World"
+    ],
+    "description": "Garry’s Mod is a sandbox physics game with no predefined goals — create, build, experiment, and explore freely using the tools provided.",
+    "publisher": "Valve",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "29/11/2006",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/4000/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=JPZ3Putz1Ws"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "7 Days to Die",
+    "price": 44.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/251570/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Survival",
+      "Horror",
+      "Open World",
+      "Zombies",
+      "Building"
+    ],
+    "description": "An open-world survival horror game. Scavenge, build, defend, and survive against the undead in a voxel-based post-apocalyptic world.",
+    "publisher": "The Fun Pimps",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "25/07/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/251570/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Dt9EzY6FBWw"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "TEKKEN 8",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": [
+      "Fighting",
+      "3D",
+      "Multiplayer",
+      "eSports"
+    ],
+    "description": "TEKKEN 8 is the latest chapter in the legendary 3D fighting series. Fight with over 32 characters, learn new mechanics like Heat and Rage Arts, and uncover a rich story mode.",
+    "publisher": "Bandai Namco Entertainment",
+    "platform": [
+      "PC"
+    ],
+    "releaseDate": "26/01/2024",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=9m-xJ9tPyMs"
+      }
+    ]
+  }
+]
