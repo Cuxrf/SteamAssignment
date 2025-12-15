@@ -65,7 +65,7 @@
     "id": 3,
     "name": "Dota 2",
     "price": 0.0,
-    "image": "/Assets/Images/GamesFeatured/Dota2.png",
+    "image": "/Steam/Assets/Images/GamesFeatured/Dota2.png",
     "featured": true,
     "popular": true,
     "tags": [
@@ -83,7 +83,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/Assets/Images/GamesFeatured/Dota2.png"
+        "url": "/Steam/Assets/Images/GamesFeatured/Dota2.png"
       },
       {
         "type": "youtube",
@@ -1356,7 +1356,7 @@
     "id": 45,
     "name": "Ghost of Tsushima",
     "price": 59.99,
-    "image": "/Assets/Images/GamesFeatured/GOT.avif",
+    "image": "/Steam/Assets/Images/GamesFeatured/GOT.avif",
     "featured": true,
     "popular": true,
     "tags": [
@@ -1580,7 +1580,7 @@
     "id": 52,
     "name": "Marvel's Spider-Man",
     "price": 59.99,
-    "image": "/Assets/Images/GamesFeatured/Spiderman.jpg",
+    "image": "/Steam/Assets/Images/GamesFeatured/Spiderman.jpg",
     "featured": true,
     "popular": true,
     "tags": [
@@ -1600,7 +1600,7 @@
     "media": [
       {
         "type": "image",
-        "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg"
+        "url": "/Steam/Assets/Images/GamesFeatured/Spiderman.jpg"
       },
       {
         "type": "youtube",
@@ -2506,7 +2506,7 @@
     "id": 81,
     "name": "The Last of Us Part I",
     "price": 59.99,
-    "image": "/Assets/Images/GamesFeatured/TLOU1.jpg",
+    "image": "/Steam/Assets/Images/GamesFeatured/TLOU1.jpg",
     "featured": true,
     "popular": true,
     "tags": [
@@ -2811,6 +2811,560 @@
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=9m-xJ9tPyMs"
       }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Hell Let Loose",
+    "price": 44.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/686810/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["FPS", "World War II", "Multiplayer", "Realistic"],
+    "description": "A hardcore World War II first-person shooter focused on teamwork, communication, and large-scale battles.",
+    "publisher": "Team17",
+    "platform": ["PC"],
+    "releaseDate": "27/07/2021",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/686810/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=S3hLu58KXg8" }
+    ]
+  },
+  {
+  "id": 92,
+  "name": "Brawlhalla",
+  "price": 0,
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg",
+  "featured": false,
+  "popular": true,
+  "tags": ["Fighting", "Platform Fighter", "Multiplayer", "Free to Play"],
+  "description": "A free-to-play platform fighting game featuring fast-paced combat, multiple legends, and both online and local multiplayer.",
+  "publisher": "Blue Mammoth Games",
+  "platform": ["PC"],
+  "releaseDate": "17/10/2017",
+  "media": [
+    { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/291550/header.jpg" },
+    { "type": "youtube", "url": "https://www.youtube.com/watch?v=K0p6pM3B0JY" }
+  ]
+  },
+  {
+    "id": 93,
+    "name": "Cuphead",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Platformer", "Hard", "Indie", "Cartoon"],
+    "description": "A run-and-gun platformer inspired by 1930s cartoons with hand-drawn animation and brutal difficulty.",
+    "publisher": "Studio MDHR",
+    "platform": ["PC"],
+    "releaseDate": "29/09/2017",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=NN-9SQXoi50" }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Middle-earth: Shadow of War",
+    "price": 49.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/356190/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Action", "Open World", "Fantasy", "RPG"],
+    "description": "Build an army using the Nemesis System and conquer Mordor in this epic action RPG.",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "platform": ["PC"],
+    "releaseDate": "10/10/2017",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/356190/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=Iu3C8F0K_0o" }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Saints Row",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/742420/header.jpg",
+    "featured": false,
+    "popular": false,
+    "tags": ["Open World", "Action", "Crime", "Comedy"],
+    "description": "A reboot of the Saints Row franchise featuring outrageous crime, customization, and chaos.",
+    "publisher": "Deep Silver",
+    "platform": ["PC"],
+    "releaseDate": "23/08/2022",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/742420/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=YgjzDJA1o1E" }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Prototype 2",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/115320/header.jpg",
+    "featured": false,
+    "popular": false,
+    "tags": ["Action", "Open World", "Superpowers"],
+    "description": "Wield devastating biological powers in a virus-ravaged open-world New York City.",
+    "publisher": "Activision",
+    "platform": ["PC"],
+    "releaseDate": "24/07/2012",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/115320/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=4Yz9-6r9gI0" }
+    ]
+  },
+  {
+  "id": 97,
+  "name": "The Incredible Adventures of Van Helsing",
+  "price": 14.99,
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/241210/header.jpg",
+  "featured": false,
+  "popular": false,
+  "tags": ["Action RPG", "Hack and Slash", "Fantasy", "Singleplayer"],
+  "description": "An action RPG set in a gothic-noir fantasy world where you play as Van Helsing, hunting monsters and uncovering dark secrets.",
+  "publisher": "NeocoreGames",
+  "platform": ["PC"],
+  "releaseDate": "22/05/2013",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/241210/header.jpg"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HkZ1Yx3x2zM"
+    }
+  ]
+  },
+  {
+    "id": 98,
+    "name": "DayZ",
+    "price": 44.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/221100/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Survival", "Open World", "Zombies", "Multiplayer"],
+    "description": "A hardcore survival game where players struggle to stay alive in a post-apocalyptic world.",
+    "publisher": "Bohemia Interactive",
+    "platform": ["PC"],
+    "releaseDate": "13/12/2018",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/221100/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=5c4q5v8lY0Y" }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "World War Z",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/699130/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Zombies", "Co-op", "Shooter"],
+    "description": "A cooperative third-person shooter featuring massive zombie hordes.",
+    "publisher": "Saber Interactive",
+    "platform": ["PC"],
+    "releaseDate": "21/09/2021",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/699130/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=GJu9T9_m3oM" }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Gang Beasts",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/285900/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Party", "Multiplayer", "Physics", "Comedy"],
+    "description": "A chaotic multiplayer brawler with physics-based combat and silly characters.",
+    "publisher": "Boneloaf",
+    "platform": ["PC"],
+    "releaseDate": "12/12/2017",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/285900/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=JkWcR7h0J9A" }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Assassin's Creed Shadows",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3159330/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Action", "Open World", "Stealth", "RPG"],
+    "description": "A new Assassin's Creed experience set in feudal Japan, blending stealth, combat, and historical storytelling.",
+    "publisher": "Ubisoft",
+    "platform": ["PC"],
+    "releaseDate": "15/11/2024",
+    "media": [
+      { "type": "image", "url": "https://static.ubisoft.com/0071/Assassins_Creed_Shadows/ACSH_Keyart.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=U6pP8sW7G0M" }
+    ]
+  },
+  {
+  "id": 102,
+  "name": "Delta Force",
+  "price": 0,
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2507950/header.jpg",
+  "featured": false,
+  "popular": true,
+  "tags": ["FPS", "Multiplayer", "Tactical", "Free to Play"],
+  "description": "The classic tactical shooter returns in a modern multiplayer experience with large-scale battles, extraction modes, and cooperative gameplay.",
+  "publisher": "TiMi Studio Group",
+  "platform": ["PC"],
+  "releaseDate": "04/12/2024",
+  "media": [
+    { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2507950/header.jpg" },
+    { "type": "youtube", "url": "https://www.youtube.com/watch?v=kXvMBGDWSmE" }
+  ]
+  },
+  {
+    "id": 103,
+    "name": "Plants vs. Zombies",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3590/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Strategy", "Tower Defense", "Casual"],
+    "description": "Defend your home from waves of zombies using a variety of quirky and powerful plants.",
+    "publisher": "PopCap Games",
+    "platform": ["PC"],
+    "releaseDate": "05/05/2009",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3590/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=6ZkiPd1pPEE" }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Geometry Dash",
+    "price": 4.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/322170/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Platformer", "Rhythm", "Indie"],
+    "description": "A fast-paced rhythm-based platformer where timing and precision are everything.",
+    "publisher": "RobTop Games",
+    "platform": ["PC"],
+    "releaseDate": "22/08/2013",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/322170/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=0W4_JpV0QZo" }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Raft",
+    "price": 24.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Survival", "Open World", "Co-op", "Crafting"],
+    "description": "Survive on the open ocean by gathering debris, expanding your raft, and exploring islands.",
+    "publisher": "Redbeet Interactive",
+    "platform": ["PC"],
+    "releaseDate": "23/06/2022",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=__w615A5lC4" }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Splitgate",
+    "price": 0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/677620/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["FPS", "Multiplayer", "Sci-Fi", "Arena Shooter"],
+    "description": "A fast-paced arena shooter that combines classic gunplay with portal mechanics.",
+    "publisher": "1047 Games",
+    "platform": ["PC"],
+    "releaseDate": "27/07/2021",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/677620/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=6rC4W5UDR38" }
+    ]
+  },
+  {
+  "id": 107,
+  "name": "SMITE 2",
+  "price": 0,
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2437170/header.jpg",
+  "featured": false,
+  "popular": true,
+  "tags": ["MOBA", "Action", "Multiplayer", "Free to Play"],
+  "description": "SMITE 2 is the next-generation action MOBA built in Unreal Engine 5, featuring third-person combat, mythological gods, and competitive multiplayer battles.",
+  "publisher": "Hi-Rez Studios",
+  "platform": ["PC"],
+  "releaseDate": "01/01/2024",
+  "media": [
+    { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2437170/header.jpg" },
+    { "type": "youtube", "url": "https://www.youtube.com/watch?v=1Yw4nPpX2cA" }
+  ]
+  },
+  {
+    "id": 108,
+    "name": "Assassin's Creed Valhalla",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Action", "Open World", "RPG"],
+    "description": "Lead epic Viking raids, explore England, and shape your clan's destiny.",
+    "publisher": "Ubisoft",
+    "platform": ["PC"],
+    "releaseDate": "10/11/2020",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=ssrNcwxALS4" }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Overcooked",
+    "price": 16.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Co-op", "Party", "Casual", "Cooking"],
+    "description": "A chaotic co-op cooking game where teamwork is the key to success.",
+    "publisher": "Team17",
+    "platform": ["PC"],
+    "releaseDate": "03/08/2016",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=0ZK7veYPEJQ" }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Overcooked 2",
+    "price": 24.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Co-op", "Party", "Casual", "Cooking"],
+    "description": "The sequel to Overcooked, featuring new kitchens, mechanics, and online multiplayer.",
+    "publisher": "Team17",
+    "platform": ["PC"],
+    "releaseDate": "07/08/2018",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=6bH7d0u2sW8" }
+    ]
+  }
+  ,
+  {
+    "id": 111,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/header.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": ["FPS", "Survival", "Open World"],
+    "description": "A gritty first‑person shooter and survival horror set in an irradiated open world. Explore the Zone and face mutants, factions, and anomalies in this sequel to the iconic franchise. :contentReference[oaicite:0]{index=0}",
+    "publisher": "GSC Game World",
+    "platform": ["PC"],
+    "releaseDate": "20/11/2024",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1643320/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=PKO4PL8Xzik" }
+    ]
+  },
+  
+  
+  {
+    "id": 114,
+    "name": "DOOM",
+    "price": 4.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2280/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["FPS", "Classic", "Shooter"],
+    "description": "The seminal first‑person shooter that started it all.",
+    "publisher": "id Software",
+    "platform": ["PC"],
+    "releaseDate": "10/12/1993",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2280/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=RVmgY4ciHiM" }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Bioshock",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/7670/header.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": ["FPS", "Story Rich", "Immersive"],
+    "description": "A genre‑blending narrative FPS set in the underwater city of Rapture.",
+    "publisher": "2K Games",
+    "platform": ["PC"],
+    "releaseDate": "21/08/2007",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/7670/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=2HvoCpWkzbA" }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Bioshock Infinite",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/header.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": ["FPS", "Story", "Adventure"],
+    "description": "A standalone sequel to Bioshock that transports players to the flying city of Columbia.",
+    "publisher": "2K Games",
+    "platform": ["PC"],
+    "releaseDate": "26/03/2013",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=1K8krX9Z2A0" }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "ULTRAKILL",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["FPS", "Retro", "Action"],
+    "description": "A fast‑paced retro FPS blending classic shooter feel with modern movement and combat. :contentReference[oaicite:1]{index=1}",
+    "publisher": "New Blood Interactive",
+    "platform": ["PC"],
+    "releaseDate": "03/09/2020",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=Pw63IVgYLDc" }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "The Witcher 3: Wild Hunt",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": ["RPG", "Open World", "Adventure"],
+    "description": "A critically acclaimed open‑world RPG where you hunt monsters across a vast fantasy land.",
+    "publisher": "CD Projekt",
+    "platform": ["PC"],
+    "releaseDate": "19/05/2015",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=c0i88t0Kacs" }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Baldur's Gate: Enhanced Edition",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/228280/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["RPG", "Classic", "Fantasy"],
+    "description": "A classic Dungeons & Dragons‑inspired RPG with deep storytelling.",
+    "publisher": "Beamdog",
+    "platform": ["PC"],
+    "releaseDate": "28/11/2012",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/228280/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=_1bBKNzVlaw" }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Undertale",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["RPG", "Indie", "Story"],
+    "description": "A quirky indie RPG about choices, friendship, and unexpected twists.",
+    "publisher": "Toby Fox",
+    "platform": ["PC"],
+    "releaseDate": "15/09/2015",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=Zc3yEokWDwU" }
+    ]
+  }
+  ,
+  {
+    "id": 121,
+    "name": "Metal Slug: Awakening",
+    "price": 0,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2963870/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Action", "Arcade", "Shooter"],
+    "description": "A continuation of the classic Metal Slug action‑shooter franchise with roguelike elements and co‑op team play.",
+    "publisher": "HAOPLAY Limited",
+    "platform": ["PC"],
+    "releaseDate": "19/07/2024",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2963870/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=VO8Z6SNM8qo" }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "LEGO Batman 3: Beyond Gotham",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/313690/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Action", "Adventure", "Family"],
+    "description": "Batman joins forces with the Justice League to stop Brainiac across space in this Lego‑themed action adventure.",
+    "publisher": "Warner Bros. Interactive",
+    "platform": ["PC"],
+    "releaseDate": "11/11/2014",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/313690/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=l_mwZ42VJ7g" }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Control",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg",
+    "featured": true,
+    "popular": true,
+    "tags": ["Action", "Adventure", "Third-Person"],
+    "description": "A supernatural third-person action-adventure game where you explore the mysterious Federal Bureau of Control.",
+    "publisher": "505 Games",
+    "platform": ["PC"],
+    "releaseDate": "27/08/2019",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=Z6dC-2Zl9AA" }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Need for Speed Heat",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/header.jpg",
+    "featured": false,
+    "popular": true,
+    "tags": ["Racing", "Arcade", "Cars"],
+    "description": "Race by day and evade the cops by night in this open-world street racing game.",
+    "publisher": "Electronic Arts",
+    "platform": ["PC"],
+    "releaseDate": "08/11/2019",
+    "media": [
+      { "type": "image", "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/header.jpg" },
+      { "type": "youtube", "url": "https://www.youtube.com/watch?v=miEt9SB0TVY" }
     ]
   }
 ]

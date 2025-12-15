@@ -43,11 +43,11 @@
                     </div>
 
                     <div class="support-form-container">
-                        <form id="support-form" class="support-form">
+                        <form id="support-form" class="support-form" action="support.php" method="POST">
                             
                             <div class="form-group">
                                 <label for="name">Name</label>
-                                <input type="text" id="name" name="name" class="form-input" placeholder="Enter your name" required>
+                                <input type="text" id="name" name="SName" class="form-input" placeholder="Enter your name" required>
                             </div>
 
                             <div class="form-group">
@@ -62,12 +62,12 @@
                                         <span>Female</span>
                                     </button>
                                 </div>
-                                <input type="hidden" id="gender" name="gender" required>
+                                <input type="hidden" id="gender" name="SGender" required>
                             </div>
 
                             <div class="form-group">
                                 <label for="email">Email</label>
-                                <input type="email" id="email" name="email" class="form-input" placeholder="your.email@example.com" required>
+                                <input type="email" id="email" name="SEmail" class="form-input" placeholder="your.email@example.com" required>
                             </div>
 
                             <div class="form-group">
@@ -83,12 +83,12 @@
 
                             <div class="form-group">
                                 <label for="feedback">Feedback</label>
-                                <textarea id="feedback" name="feedback" class="form-textarea" placeholder="Tell us what's on your mind..." rows="6" required></textarea>
+                                <textarea id="feedback" name="SFeedback" class="form-textarea" placeholder="Tell us what's on your mind..." rows="6" required></textarea>
                             </div>
 
                             <div class="form-group">
                                 <label for="date">Date of Feedback</label>
-                                <input type="text" id="date" name="date" class="form-input" readonly>
+                                <input type="text" id="date" name="SDate" class="form-input" readonly>
                             </div>
 
                             <button type="submit" class="support-submit-btn">Submit</button>
@@ -108,5 +108,117 @@
         </main>
     </div>
 
+    <script>
+        // ============================================================
+        // SUPPORT PAGE SCRIPT
+        // Handles gender selection, date auto-fill, and loading feedback.
+        // Form submission is handled by traditional POST to support.php.
+        // ============================================================
+
+        document.addEventListener('DOMContentLoaded', function() {
+
+            // ========================================================
+            // SECTION 1: DOM ELEMENT REFERENCES
+            // ========================================================
+            
+            const dateInput = document.getElementById('date');
+            const genderBtns = document.querySelectorAll('.gender-btn');
+            const genderInput = document.getElementById('gender');
+            const feedbackList = document.getElementById('feedback-list');
+
+
+            // ========================================================
+            // SECTION 2: DATE AUTO-FILL
+            // Sets today's date in YYYY-MM-DD format.
+            // ========================================================
+            
+            const today = new Date();
+            const formattedDate = today.toISOString().split('T')[0];
+            dateInput.value = formattedDate;
+
+
+            // ========================================================
+            // SECTION 3: GENDER BUTTON TOGGLE
+            // Handles male/female button selection.
+            // ========================================================
+            
+            genderBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    genderBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    genderInput.value = this.dataset.gender;
+                });
+            });
+
+
+            // ========================================================
+            // SECTION 4: LOAD FEEDBACK ON PAGE LOAD
+            // Fetches all feedback entries from PHP backend.
+            // ========================================================
+            
+            loadFeedback();
+
+            function loadFeedback() {
+                fetch('support.php', {
+                    method: 'GET'
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success && data.data) {
+                        displayFeedback(data.data);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading feedback:', error);
+                });
+            }
+
+
+            // ========================================================
+            // SECTION 5: TEXT TRUNCATION UTILITY
+            // Shortens long text with ellipsis for card display.
+            // ========================================================
+            
+            function truncateText(text, maxLength = 150) {
+                if (text.length <= maxLength) return text;
+                return text.substring(0, maxLength).trim() + '...';
+            }
+
+
+            // ========================================================
+            // SECTION 6: DISPLAY FEEDBACK FUNCTION
+            // Renders feedback data as styled cards.
+            // ========================================================
+            
+            function displayFeedback(feedbacks) {
+                feedbackList.innerHTML = '';
+
+                if (feedbacks.length === 0) {
+                    feedbackList.innerHTML = '<p class="no-feedback">No feedback submitted yet.</p>';
+                    return;
+                }
+
+                feedbacks.forEach(fb => {
+                    const genderIcon = fb.gender === 'male' ? '<i class="fa-solid fa-mars"></i>' : '<i class="fa-solid fa-venus"></i>';
+                    const truncatedFeedback = truncateText(fb.feedback, 150);
+                    
+                    const card = document.createElement('div');
+                    card.className = 'feedback-card';
+                    card.innerHTML = `
+                        <div class="feedback-card-header">
+                            <div class="feedback-user-info">
+                                <span class="feedback-name">${fb.name}</span>
+                                <span class="feedback-gender">${genderIcon}</span>
+                            </div>
+                            <span class="feedback-date">${fb.date}</span>
+                        </div>
+                        <div class="feedback-email">${fb.email}</div>
+                        <div class="feedback-content" title="${fb.feedback}">${truncatedFeedback}</div>
+                    `;
+                    feedbackList.appendChild(card);
+                });
+            }
+        });
+    </script>
 </body>
 </html>

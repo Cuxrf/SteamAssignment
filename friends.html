@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friends - Steam</title>
+    <link rel="icon" type="image/x-icon" href="Assets/Images/Steam.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <link rel="stylesheet" href="styles.css">
+    
+    <script src="Assets/Components/component-loader.js"></script>
+</head>
+<body>
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <div class="main-container fade-in">
+        
+        <div id="sidebar-placeholder"></div>
+
+        <main class="main-content">
+            
+            <div id="header-placeholder"></div>
+
+            <div class="content-area">
+                
+                <div class="back-button-container">
+                    <a href="index.html" class="back-button">
+                        <span class="icon">←</span>
+                        <span>Back to Store</span>
+                    </a>
+                </div>
+
+                <section class="friends-section">
+                    <div class="friends-header">
+                        <div class="friends-title">
+                            <h1>Your Friends <span class="friends-count">17</span></h1>
+                            <span class="friends-refresh">/ 30s</span>
+                        </div>
+                        <div class="friends-header-actions">
+                            <a href="#" class="manage-btn">Manage Friends List</a>
+                            <a href="#" class="add-friend-btn">
+                                <i class="fa-solid fa-user-plus"></i>
+                                Add a Friend
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="friends-search-bar">
+                        <div class="search-wrapper">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" class="friends-search-input" placeholder="Search friends by name or game">
+                        </div>
+                    </div>
+
+                    <div class="friends-content">
+                        <div class="friends-category">
+                            <h3 class="category-title">Playing</h3>
+                            <div class="friends-grid">
+                                <a href="https://www.instagram.com/cuxrf.f?igsh=MTFzaTdmazBxbGVobg%3D%3D&utm_source=qr" class="friend-card playing" target="_blank">
+                                    <img src="Assets/Images/Team/Naufal.jpg" alt="Cuxrf.f" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">@Cuxrf.f</div>
+                                        <div class="friend-status">Counter-Strike 2 0:2</div>
+                                    </div>
+                                </a>
+                                <a href="https://www.instagram.com/dreamyshitee?igsh=MWdsejJzaW4ydnRjZg==" class="friend-card playing" target="_blank">
+                                    <img src="Assets/Images/Team/Delaila.jpg" alt="Dreamyshitee" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">@DreamyShitee</div>
+                                        <div class="friend-status">Counter-Strike 2 2:0</div>
+                                    </div>
+                                </a>
+                                <a href="https://www.instagram.com/s.darwishhh?igsh=MWdsejJzaW4ydnRjZg==" class="friend-card playing" target="_blank">
+                                    <img src="Assets/Images/Team/Shahreez.jpg" alt="Darwish" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">@S.darwishhh</div>
+                                        <div class="friend-status">Elden Ring: Nightreign</div>
+                                    </div>
+                                </a>
+                                <a href="https://www.instagram.com/haris.saufi___?igsh=MXRjY2l4NG9lNHJlMA==" class="friend-card playing" target="_blank">
+                                    <img src="Assets/Images/Team/ApronGuy.jpg" alt="Sopi" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">@haris.saufi___</div>
+                                        <div class="friend-status">Rust</div>
+                                    </div>
+                                </a>
+                                <a href="https://www.instagram.com/luqmatt?igsh=dDZtZ25jczVhMTBy" class="friend-card playing" target="_blank">
+                                    <img src="Assets/Images/Team/Luqman.jpg" alt="Luqman" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">@Luqmatt</div>
+                                        <div class="friend-status">Team Fortress 2</div>
+                                    </div>
+                                </a>
+                                <a href="https://www.instagram.com/irfndnishh._?igsh=NDR4NWJwNWRkcThh" class="friend-card playing" target="_blank">
+                                    <img src="Assets/Images/Team/Danish.jpg" alt="Danish" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">@irfndnishh._</div>
+                                        <div class="friend-status">Watch Dogs 2</div>
+                                    </div>
+                                </a>
+                                <a href="#" class="friend-card playing">
+                                    <img src="https://i.pravatar.cc/150?img=32" alt="ToastyPenguin" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">ToastyPenguin</div>
+                                        <div class="friend-status">Left 4 Dead 2</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="friends-category">
+                            <h3 class="category-title">Online</h3>
+                            <div class="friends-grid">
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=28" alt="BlueBeanGuy" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">BlueBeanGuy</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=35" alt="ComfySeal" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">ComfySeal</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=47" alt="ButterBiscuit" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">ButterBiscuit</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=19" alt="MintyMuffin" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">MintyMuffin</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=24" alt="CozyCranberry" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">CozyCranberry</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=38" alt="PuffyWalnut" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">PuffyWalnut</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=41" alt="SunnyPretzel" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">SunnyPretzel</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=22" alt="GentleNugget" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">GentleNugget</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+
+                                <div class="friend-card online">
+                                    <img src="https://i.pravatar.cc/150?img=33" alt="MellowSprout" class="friend-avatar">
+                                    <div class="friend-info">
+                                        <div class="friend-name">MellowSprout</div>
+                                        <div class="friend-status">Online</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
